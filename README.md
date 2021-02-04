@@ -4,5 +4,5 @@ Both scripts prepare the source data in a common process and then launch separat
 
 First one was written in PowerShell, but execution time of 3 minutes was found to be too slow.
 
-The second was written in GO - the benchmark process showed average processing time of 2,8 seconds.
+The second was written in GO - the benchmark process showed average processing time of 2,8 seconds for the same.
 
